@@ -7,7 +7,7 @@
 
 - 🔜 I'm currently **20 Credit Hours Until My Bachelors in CS**
 
-- 🎎 I’m looking **For Others To Learn and Growth With**
+- 🎎 I’m looking **For Others To Learn and Grow With**
 
 - 🤝 I’m also currently **Attending the Data Science program @CodeUp**
 

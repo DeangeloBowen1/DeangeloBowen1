@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deangelobowen1" alt="deangelobowen1" /></a> </p>
 
-- 🔜 I'm currently **15 Credit Hours Until My Bachelors in CS**
+- 🔜 I'm currently **15 Credit Hours Until My Bachelors in Computer Science**
 
 - 🎎 I’m looking **For Others To Learn and Grow With**
 

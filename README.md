@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm DeAngelo Bowen</h1>
-<h3 align="center">Aspiring Data Scientist and Student @CodeUp LLC</h3>
+<h3 align="center">Data Scientist / Machine Learning Engineer at SE2S</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deangelobowen1&label=Profile%20views&color=0e75b6&style=flat" alt="deangelobowen1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deangelobowen1" alt="deangelobowen1" /></a> </p>
 
-- 🔜 I'm currently **3 Credit Hours Until My Bachelors in Computer Science**
-
-- 🎎 I’m looking **For Others To Learn and Grow With**
-
-- 🤝 I’m also currently **Attending the Data Science program @CodeUp**
+- 🔜 My Education: Bachelors in CS, CodeUp LLC Certification for Data Science, and a ton of Udemy.
 
 - 💬 Ask me about **Anything!**
 
